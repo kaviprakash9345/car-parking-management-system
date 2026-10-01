@@ -42,11 +42,4 @@ The Car Parking Management System utilizes a heap data structure to efficiently 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-Feel free to customize this README file to fit your specific project and provide more details about your Car Parking Management System. Include actual URLs, images, and relevant information specific to your project.
-
-Happy documenting and managing car parking!
