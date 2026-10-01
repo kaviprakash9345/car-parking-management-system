@@ -26,9 +26,9 @@ The Car Parking Management System is a comprehensive solution for managing car p
 Check out the live demo of the Car Parking Management System [here](https://carparking.example.com). -->
 
 ## Technologies Used
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end:** PHP, MySQL , Pyhton
-- **Frameworks/Libraries:** Bootstrap, jQuery, Flask
+- **Front-end:** HTML5, CSS3
+- **Back-end:**  MySQL , Pyhton
+- **Frameworks/Libraries:** Bootstrap, Flask
 
 ## Algorithm used
 The Car Parking Management System utilizes a heap data structure to efficiently find and allocate empty parking spaces. The heap maintains a priority queue of available parking spaces based on their proximity to the entrance. When a customer requests a parking space, the system retrieves the topmost element from the heap, which represents the nearest available space. This approach ensures that the allocated spaces are optimally distributed and minimizes the search time for available spots.
