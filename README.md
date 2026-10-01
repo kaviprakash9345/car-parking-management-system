@@ -9,7 +9,7 @@
 - [Algorithm used](#algorithm-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The Car Parking Management System is a comprehensive solution for managing car parking spaces, bookings, and a timer feature to track parking duration. It provides an efficient and user-friendly interface for both administrators and customers to streamline the parking process.
